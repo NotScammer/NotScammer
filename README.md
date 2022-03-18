@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @NotScammer
 - 👀 I’m interested in gaming, coding and having fun
-- 🌱 I’m currently learning C#, CheatEngine, little bit of C++
+- 🌱 I’m currently learning C++ and some web languages
 - 📫 Discord : Not Scammer#7336
 - CodeForces profile : https://codeforces.com/profile/notscammer
 
 - From Turkey
 - Born in 2006
-- Math lover (also i hate it)
 
 
 - Thanks for looking to my page :)
