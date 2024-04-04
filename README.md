@@ -3,7 +3,7 @@
 - 🌱 I’m currently trying to get better in C# and some web languages
 - 📫 Discord : notscammer
 - CodeForces profile : https://codeforces.com/profile/notscammer
-- LinkedIn profile : https://www.linkedin.com/in/uraz-ta%C5%9F%C3%A7%C4%B1-82788b228/
+- LinkedIn profile : https://www.linkedin.com/in/alperenuraztasci/
 
 - From Turkey
 - Born in 2006
